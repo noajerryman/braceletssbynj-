@@ -1,0 +1,23 @@
+body{
+  background-color: bisque;
+  font-family: helvetica, arial, georgia;
+  margin: 10px 20px 10px 20px;
+}
+
+h1, h2{
+  color:Turquoise;
+  font-size:27px
+  text align:center;
+  border:solid Turquoise
+}
+
+#header{
+  border: 2px solid bisque;
+  padding:20px
+  weight: bold;
+
+}
+.bracelets:hover{
+  -webkit-transform:scaleX(-1);
+  transform:scaleX(-1);
+}
